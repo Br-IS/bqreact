@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bqreact/static/css/main.6310f8f4.css",
+    "main.js": "/bqreact/static/js/main.e1782147.js",
+    "static/js/787.301a7fcb.chunk.js": "/bqreact/static/js/787.301a7fcb.chunk.js",
+    "static/media/primeicons.svg": "/bqreact/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/bqreact/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/bqreact/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/bqreact/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "static/media/logo.svg": "/bqreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bqreact/index.html",
+    "main.6310f8f4.css.map": "/bqreact/static/css/main.6310f8f4.css.map",
+    "main.e1782147.js.map": "/bqreact/static/js/main.e1782147.js.map",
+    "787.301a7fcb.chunk.js.map": "/bqreact/static/js/787.301a7fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6310f8f4.css",
+    "static/js/main.e1782147.js"
+  ]
+}
